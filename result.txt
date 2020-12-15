@@ -1,11 +1,19 @@
 |             Surname|        Phone number|          Tariff name         Tariff code         Tariff cost
-|           Asadov BG|          9008232659|              Tarif2|                 df3|                 567
-|          Fedorov AS|          9212232789|              Tarif3|                 fg7|                 567
-|       Alexandrov FG|          9228234559|              Tarif2|                 f8h|                 567
-|          Sidorov HJ|          0118267659|              Tarif1|                 fgk|                  45
+|           Asadov BG|          9008265967|              Tarif2|                 df3|                 567|
+|          Fedorov AS|          9212232789|              Tarif3|                 fg7|                 567|
+|       Alexandrov FG|          9228234559|              Tarif2|                 f8h|                 567|
+|          Sidorov HJ|          0118267659|              Tarif1|                 fgk|                  45|
+|           Asadov BP|          9005672659|              Tarif2|                 df3|                 567|
+|          Fedotov AS|          9212232790|              Tarif3|                 fg7|                 567|
+|      Aleksandrov FG|          9228564559|              Tarif2|                 f8h|                 567|
+|          Sedorov HK|          0134267659|              Tarif1|                 fgk|                  45|
 After sort
 |             Surname|        Phone number|          Tariff name         Tariff code         Tariff cost
-|       Alexandrov FG|          9228234559|              Tarif2|                 f8h|                 567
-|           Asadov BG|          9008232659|              Tarif2|                 df3|                 567
-|          Fedorov AS|          9212232789|              Tarif3|                 fg7|                 567
-|          Sidorov HJ|          0118267659|              Tarif1|                 fgk|                  45
+|      Aleksandrov FG|          9228564559|              Tarif2|                 f8h|                 567|
+|       Alexandrov FG|          9228234559|              Tarif2|                 f8h|                 567|
+|           Asadov BG|          9008265967|              Tarif2|                 df3|                 567|
+|           Asadov BP|          9005672659|              Tarif2|                 df3|                 567|
+|          Fedorov AS|          9212232789|              Tarif3|                 fg7|                 567|
+|          Fedotov AS|          9212232790|              Tarif3|                 fg7|                 567|
+|          Sedorov HK|          0134267659|              Tarif1|                 fgk|                  45|
+|          Sidorov HJ|          0118267659|              Tarif1|                 fgk|                  45|

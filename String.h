@@ -23,6 +23,6 @@ public:
 private:
 	char* str;
 	int len;
-	static const int CINLIM = 80;
+	static const int LIM = 80;
 };
 
